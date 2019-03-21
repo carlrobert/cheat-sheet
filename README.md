@@ -11,3 +11,6 @@ include ':audio-device'
 project(':audio-device').projectDir = new File('../oboe/samples/audio-device')
 ```
 Note the two different file path syntaxes :)
+
+## Google firmware
+[Nexus and Pixel firmware labels](https://developers.google.com/android/images) and the [mapping between builds and tags](https://source.android.com/setup/start/build-numbers)
